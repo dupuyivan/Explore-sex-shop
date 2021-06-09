@@ -15,3 +15,4 @@ el comando `npm install` tanto en la carpeta raiz como en la carpeta frontend
 
 [![All-Products.png](https://i.postimg.cc/fTvggB6Z/All-Products.png)](https://postimg.cc/zVVjySzP)
 
+<!-- hacer menciones o aclaraciones -->
