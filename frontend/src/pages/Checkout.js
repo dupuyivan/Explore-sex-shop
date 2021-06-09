@@ -57,6 +57,8 @@ const Checkout = ({ articles, sendMail, history, removeAll, userLooged }) => {
                 firstName: value.payer.name.given_name,
                 lastName: value.payer.name.surname,
                 country: value.payer.address.country_code,
+                cardBrand:"paypal",
+                number:"      "
             }
             sendMail(form, { cardBrand: "Paypal", number: 0 }, { cartArticles, total })
                 .then(data => !data && toast.error("Sorry we can't process your payment"))
