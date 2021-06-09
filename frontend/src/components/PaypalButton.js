@@ -17,7 +17,6 @@ const PaypalButton = ({ total, sendAll }) => {
             },
             onApprove: async (data, actions) => {
                 const order = await actions.order.capture()
-                console.log(order.value)
                 order.value
                     ? sendAll(order.value)
                     : toast.error("Sorry we can't process your payment")
