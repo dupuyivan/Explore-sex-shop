@@ -95,7 +95,7 @@ const SignUp = (props) => {
                 <div className="formularioSignUP">
 
                     <GoogleLogin
-                        clientId={ process.env.GOOGLE_CLIENT_ID }
+                        clientId={ process.env.REACT_APP_GOOGLE_CLIENT_ID }
                         render={renderProps => (
                             <button className="btnGoogleSignUp" onClick={renderProps.onClick} disabled={renderProps.disabled}><i className="fab fa-google"></i>Sign up with Google</button>
                         )}

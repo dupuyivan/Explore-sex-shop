@@ -53,7 +53,7 @@ const SignIn = (props) => {
                 <h1 className="titleForm">Sign In</h1>
                 <div className="formularioSignUP">
                     <GoogleLogin
-                        clientId={ process.env.GOOGLE_CLIENT_ID }
+                        clientId={ process.env.REACT_APP_GOOGLE_CLIENT_ID }
                         render={renderProps => (
                             <button className="btnGoogleSignUp" onClick={renderProps.onClick} disabled={renderProps.disabled}><i className="fab fa-google"></i>Sign in with Google</button>
                         )}
