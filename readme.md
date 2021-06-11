@@ -3,7 +3,7 @@
 ## Fue desarrollado en las últimas 2 semanas del bootcamp de MindHub, también cuenta con su version movil en React native
 
 
-## [ Explore sex-shop ]( https://explore-sex-shop.herokuapp.com/ "explore-sex-shop")
+## Puede ver el sitio web haciendo click en el siguiente enlace [ Explore sex-shop ]( https://explore-sex-shop.herokuapp.com/ "explore-sex-shop")
 
 
 [![Home.png](https://i.postimg.cc/rpDnsczF/Home.png)](https://postimg.cc/v1dL2JWp)
