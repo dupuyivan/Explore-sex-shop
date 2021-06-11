@@ -24,11 +24,12 @@
 * Socket 
 
 ### Colaboradores
+---
 
-@AgustinGarciaDev
+* **Ivan Dupuy** - [Ivan](https://github.com/dupuyivan)
 
-@SantiSarmiento
+* **Agustín Garcia** - [Agustin](https://github.com/AgustinGarciaDev)
+* **Santiago Sarmiento** - [Santiago](https://github.com/SantiSarmiento)
+* **Pablo Ceresola** - [Pablo](https://github.com/PabloCeresola)
 
-@PabloCeresola
-
-@KevinAsk47
+* **Kevin muñoz** - [Kevin](https://github.com/KevinAsk47)
