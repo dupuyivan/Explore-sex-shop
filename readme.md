@@ -24,7 +24,6 @@
 * Socket 
 
 ### Colaboradores
----
 
 * **Ivan Dupuy** - [Ivan](https://github.com/dupuyivan)
 
