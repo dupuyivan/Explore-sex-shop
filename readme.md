@@ -11,3 +11,24 @@
 [![Accesories.png](https://i.postimg.cc/mgXpThL5/Accesories.png)](https://postimg.cc/G4DxQLsF)
 
 [![All-Products.png](https://i.postimg.cc/fTvggB6Z/All-Products.png)](https://postimg.cc/zVVjySzP)
+
+### Tecnologías utilizadas
+
+* Javascript
+* CSS
+* ReactJs
+* Redux
+* Node 
+* Express
+* MongoDB
+* Socket 
+
+### Colaboradores
+
+@AgustinGarciaDev
+
+@SantiSarmiento
+
+@PabloCeresola
+
+@KevinAsk47
