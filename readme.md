@@ -3,8 +3,14 @@
 ## Fue desarrollado en las últimas 2 semanas del bootcamp de MindHub, también cuenta con su version movil en React native
 
 
-## Puede ver el sitio web haciendo click en el siguiente enlace [ Explore sex-shop ]( https://explore-sex-shop.herokuapp.com/ "explore-sex-shop")
+### Puede ver el sitio web haciendo click en el siguiente enlace [ Explore sex-shop ]( https://explore-sex-shop.herokuapp.com/ "explore-sex-shop")
 
+
+## Iniciar
+
+Use `npm install` para instalar las dependencias necesarias tanto del lado front-end como en del lado back-end, luego `npm start` para correr la app. 
+
+### capturas de pantalla
 
 [![Home.png](https://i.postimg.cc/rpDnsczF/Home.png)](https://postimg.cc/v1dL2JWp)
 
