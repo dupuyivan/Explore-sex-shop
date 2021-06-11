@@ -16,6 +16,7 @@
 
 * Javascript
 * CSS
+* Bootstrap
 * ReactJs
 * Redux
 * Node 
